@@ -46,12 +46,12 @@ Optimización del Rendimiento:
 * Esto mejora el rendimiento y la eficiencia del algoritmo, permitiendo tomar decisiones más rápidas y efectivas dentro de las limitaciones computacionales.
 
 Para nuestro proyecto, decidimos crear una función heurística que tiene la siguiente forma:
-![T1]({{site.baseurl}}/assets/img/t1.jpg)
+![T1]({{site.baseurl}}/assets/img/t1.png)
 
 ### Función 1: Lineas ganadoras en los sub-tableros
-![T2]({{site.baseurl}}/assets/img/t2.jpg)
+![T2]({{site.baseurl}}/assets/img/t2.png)
 ### Función 2: Lineas ganadoras en el tablero
-![T3]({{site.baseurl}}/assets/img/t3.jpg)
+![T3]({{site.baseurl}}/assets/img/t3.png)
 ### Función 3: Valor de cada posición en el tablero
-![T4]({{site.baseurl}}/assets/img/t4.jpg)
-![T4]({{site.baseurl}}/assets/img/t5.jpg)
+![T4]({{site.baseurl}}/assets/img/t4.png)
+![T4]({{site.baseurl}}/assets/img/t5.png)
