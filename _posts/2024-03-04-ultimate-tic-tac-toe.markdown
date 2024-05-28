@@ -63,3 +63,5 @@ Para nuestro proyecto, decidimos crear una función heurística que tiene la sig
 ### Función 3: Valor de cada posición en el tablero
 ![T4]({{site.baseurl}}/assets/img/t4.png)
 ![T4]({{site.baseurl}}/assets/img/t5.png)
+
+Al final, la suma de los tres valores es lo que la función heuristica aplica al los estados que esta evaluando el minimax para poder saber su ventaja a cuatro turnos a futuro (profundidad = 4) en el juego y que la inteligencia artificial pueda tomar una decisión. 
