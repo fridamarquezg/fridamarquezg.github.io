@@ -27,10 +27,11 @@ En México, algunos de los vegetales más consumidos y comercializados incluyen 
 
 
 En el ámbito de la optimización agrícola, existen varios modelos que se han desarrollado para abordar distintos aspectos de la planificación y la gestión de recursos. Algunos de estos modelos son los siguientes:
-    1. Modelo de optimización de la cadena de suministro desarrollado por la empresa McKinsey & Company. Este modelo se centra en mejorar la eficiencia de las cadenas de suministro agrícolas mediante el uso de gemelos digitales, que simulan la cadena de suministro física para optimizar la planificación y programación en tiempo real, permitiendo así una respuesta rápida a los cambios inesperados y mejorando la toma de decisiones​.
+
+* Modelo de optimización de la cadena de suministro desarrollado por la empresa McKinsey & Company. Este modelo se centra en mejorar la eficiencia de las cadenas de suministro agrícolas mediante el uso de gemelos digitales, que simulan la cadena de suministro física para optimizar la planificación y programación en tiempo real, permitiendo así una respuesta rápida a los cambios inesperados y mejorando la toma de decisiones​.
 
 
-    2. Uso de sistemas predictivos para la optimización de terrenos agrícolas desarrollados por la empresa Hindawi. Utilizando el aprendizaje de máquina, estos sistemas permiten optimizar el uso del terreno agrícola. Los modelos predictivos pueden ayudar a tomar decisiones basadas en datos sobre la gestión del terreno y el seguimiento del estado de los cultivos, lo que resulta una mejor gestión de los recursos​ disponibles.
+* Uso de sistemas predictivos para la optimización de terrenos agrícolas desarrollados por la empresa Hindawi. Utilizando el aprendizaje de máquina, estos sistemas permiten optimizar el uso del terreno agrícola. Los modelos predictivos pueden ayudar a tomar decisiones basadas en datos sobre la gestión del terreno y el seguimiento del estado de los cultivos, lo que resulta una mejor gestión de los recursos​ disponibles.
 
 Estos modelos se aplican con el objetivo de maximizar la eficiencia, reducir el desperdicio, y mejorar los rendimientos agrícolas, adaptándose a las condiciones de cada entorno y tomando en cuenta la necesidad agrícola. Nosotros decidimos enfocarnos en la utilización de algoritmos evolutivos para optimizar la utilidad del agricultor por medio de encontrar la distribución ideal de cultivos en su campo.
 
@@ -119,13 +120,13 @@ El funcionamiento del algoritmo evolutivo agrícola presenta limitaciones que de
 
 El algoritmo evolutivo agrícola se presenta como una herramienta valiosa para la agricultura sostenible y resiliente, ya que permite a los agricultores tomar decisiones estratégicas para adaptarse a los cambios climáticos y optimizar su producción. Sin embargo, para alcanzar su máximo potencial, el algoritmo requiere mejoras en tres aspectos principales:
 
-    1. Incorporación de nuevos parámetros: El algoritmo debe ampliarse para considerar una gama más amplia de factores ambientales, como la temperatura del aire, la humedad, la radiación solar y la precipitación. Estos datos son cruciales para modelar con mayor precisión el crecimiento de los cultivos y los riesgos asociados a las condiciones climáticas adversas.
+* Incorporación de nuevos parámetros: El algoritmo debe ampliarse para considerar una gama más amplia de factores ambientales, como la temperatura del aire, la humedad, la radiación solar y la precipitación. Estos datos son cruciales para modelar con mayor precisión el crecimiento de los cultivos y los riesgos asociados a las condiciones climáticas adversas.
 
 
-    2. Mejora de la precisión de la información: Es necesario refinar la información sobre los recursos disponibles, como la cantidad de agua, luz, mano de obra, así como de las probabilidades de éxito asociadas a cada escenario. Esto implica la integración de datos históricos de diversas fuentes, como sensores, registros agrícolas y estudios científicos.
+* Mejora de la precisión de la información: Es necesario refinar la información sobre los recursos disponibles, como la cantidad de agua, luz, mano de obra, así como de las probabilidades de éxito asociadas a cada escenario. Esto implica la integración de datos históricos de diversas fuentes, como sensores, registros agrícolas y estudios científicos.
 
 
-    3. Desarrollo de simulaciones más precisas: Las simulaciones realizadas por el algoritmo deben ser más sofisticadas para reflejar con mayor exactitud las complejidades de los sistemas agrícolas. Esto incluye la consideración de factores como la interacción entre cultivos, la influencia de las prácticas de manejo y el impacto de las plagas y enfermedades.
+* Desarrollo de simulaciones más precisas: Las simulaciones realizadas por el algoritmo deben ser más sofisticadas para reflejar con mayor exactitud las complejidades de los sistemas agrícolas. Esto incluye la consideración de factores como la interacción entre cultivos, la influencia de las prácticas de manejo y el impacto de las plagas y enfermedades.
 
 
 ### Resumen de hallazgos
