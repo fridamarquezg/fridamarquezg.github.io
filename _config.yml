@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Frida Márquez # add your name
 author-img: frida_m.jpg # add your photo
-about-author: Hola! Me llamo Frida y soy estudiante de Ciencia de Datos en el ITAM. Me gusta bailar, comer y aprender cosas nuevas :D # add description
+about-author: Soy estudiante de Ciencia de Datos en el ITAM. Me gusta bailar, comer y aprender cosas nuevas <3 # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: fridamarquezg # add your Github handle
