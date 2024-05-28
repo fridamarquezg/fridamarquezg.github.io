@@ -7,7 +7,7 @@ img: ae.jpg # Add image post (optional)
 tags: [AI, EvolutionaryAlgorithms, ClimateChange] # add tag
 ---
 Segundo proyecto para la materia de Inteligencia Artificial.
-Lo hice junto con mis amigos: Majo Vélazquez (https://github.com/Majo2103) y Gerardo Guerrero (https://github.com/mellamanelpoeta)
+Lo hice junto con mis amigos: Majo Velázquez (https://github.com/Majo2103) y Gerardo Guerrero (https://github.com/mellamanelpoeta)
 
 ### Objetivo
 
