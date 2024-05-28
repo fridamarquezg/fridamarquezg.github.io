@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Medicine, Diabetes, DataAnalysis, TikTok, Insulin] # add tag
 ---
 
-### Introducción
+
 Este artículo tiene como objetivo principal ofrecer una visualización clara del análisis de datos relacionados con las ventas de insulina en México. En los últimos meses del 2023, hemos observado una tendencia preocupante impulsada por contenido en la plataforma TikTok, donde muchos ‘influencers fit’ sin credenciales médicas se han encargado de promover el uso de insulina para fines no médicos, específicamente para la pérdida de peso. Este fenómeno ha causado un incremento en la demanda de insulina, afectando la disponibilidad del medicamento para aquellos que lo necesitan realmente por razones de salud, es decir la comunidad diabética.
 
 De acuerdo con los datos de la asociación Con Diabetes Somos Uno, del Gobierno de Jalisco, “México ocupa el sexto lugar mundial en el número de personas que padecen esta enfermedad. Existen 542 mil personas que viven con diabetes y casi 78 mil la desarrollan cada año.” (Gobierno de Jalisco, s.d).
