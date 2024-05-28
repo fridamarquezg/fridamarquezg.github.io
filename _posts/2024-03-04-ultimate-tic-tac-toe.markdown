@@ -35,7 +35,7 @@ Ultimate Tic Tac Toe añade una dimensión estratégica adicional al juego clás
 ### Implementación del algoritmo Minimax
 El algoritmo Minimax es una técnica de toma de decisiones utilizada en teoría de juegos e inteligencia artificial, particularmente en juegos de suma cero como el ajedrez y el Tic Tac Toe. Este algoritmo busca minimizar la posible pérdida máxima en una situación adversa. En un juego de dos jugadores, el algoritmo alterna entre simular movimientos del jugador "maximizador" que intenta maximizar su puntuación y movimientos del jugador "minimizador" que intenta minimizar la puntuación del maximizador. Minimax examina todas las posibles jugadas, evalúa los estados resultantes del tablero, y elige la jugada que conduce al mejor resultado posible para el jugador en turno, asumiendo que el oponente también jugará óptimamente. Esta estrategia permite a los jugadores tomar decisiones óptimas basadas en un análisis profundo de las posibles consecuencias de cada jugada.
 
-### Funcion heurística
+### Función heurística
 En el algoritmo Minimax, una función heurística desempeña un papel crucial cuando se trata de juegos o problemas donde la profundidad completa del árbol de decisión no es practicable debido a la complejidad y la cantidad de posibles movimientos. Aquí te explico su función en detalle:
 
 Evaluación de Estados Intermedios: 
