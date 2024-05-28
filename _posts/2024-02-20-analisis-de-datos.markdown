@@ -32,12 +32,18 @@ El incremento notable en la demanda de insulina durante septiembre, con ventas d
 
 Ante la problematica, es necesario establecer una serie de estrategias para proteger a los consumidores. La propuesta se centra en una campaña de concientización y educación no solo para disminuir la desinformación sobre las tendencias virales en redes sociales, sino también para crear empatía e informar sobre la comunidad diabética. La propuesta incluye los siguientes componentes:
 
-1. Redes sociales a nuestro favor:estableceremoscolaboracionescon asociaciones médicas, influencers con conciencia social y plataformas de redes sociales para promover mensajes precisos sobre el uso correcto de la insulina. El enfoque será claro: la insulina es un medicamento que salva vidas para personas con diabetes, y cualquier otro uso es peligroso y no aprobado por las autoridades de salud.
-2. Educación a través de contenido multimedia:desarrollaremosunaseriede materiales visuales, como vídeos y gráficos informativos, que se distribuirán en redes sociales y en consultorios médicos. Estos recursos desacreditarán mitos comunes y explicarán los riesgos asociados con el uso indebido de insulina.
-3. Talleres y seminarios:organizaremoseventoseducativos,tantoenlíneacomo presenciales, donde expertos en endocrinología y pacientes con diabetes compartirán sus conocimientos y experiencias. Estos foros servirán para crear empatía y educar a la comunidad sobre la diabetes y el papel crítico de la insulina, así como para advertir sobre los peligros de seguir consejos médicos de fuentes no verificadas.
-4. Programas de sensibilización en escuelas:implementaremosprogramasde sensibilización en las escuelas para enseñar a los jóvenes a identificar y cuestionar la desinformación en línea, especialmente en lo que respecta a la salud y el bienestar.
-5. Línea directa de asesoramiento:estableceremosunalíneadirectagratuitapara que los consumidores puedan obtener información confiable en relación con la insulina y la diabetes.
-6. Alianza con farmacéuticas para programas de capacitación:proponemos establecer alianzas estratégicas con farmacéuticas para desarrollar y ofrecer programas de capacitación destinados a los profesionales de farmacias. Este esfuerzo conjunto permitirá asegurar que los farmacéuticos reciban formación continua sobre las indicaciones apropiadas del uso de insulina y estén equipados para manejar consultas y situaciones relacionadas con la dispensación de insulina
+1.	Redes sociales a nuestro favor: estableceremos colaboraciones con asociaciones médicas, influencers con conciencia social y plataformas de redes sociales para promover mensajes precisos sobre el uso correcto de la insulina. El enfoque será claro: la insulina es un medicamento que salva vidas para personas con diabetes, y cualquier otro uso es peligroso y no aprobado por las autoridades de salud.
+
+2.	Educación a través de contenido multimedia: desarrollaremos una serie de materiales visuales, como vídeos y gráficos informativos, que se distribuirán en redes sociales y en consultorios médicos. Estos recursos desacreditarán mitos comunes y explicarán los riesgos asociados con el uso indebido de insulina.
+
+3.	Talleres y seminarios: organizaremos eventos educativos, tanto en línea como presenciales, donde expertos en endocrinología y pacientes con diabetes compartirán sus conocimientos y experiencias. Estos foros servirán para crear empatía y educar a la comunidad sobre la diabetes y el papel crítico de la insulina, así como para advertir sobre los peligros de seguir consejos médicos de fuentes no verificadas.
+
+4.	Programas de sensibilización en escuelas: implementaremos programas de sensibilización en las escuelas para enseñar a los jóvenes a identificar y cuestionar la desinformación en línea, especialmente en lo que respecta a la salud y el bienestar.
+
+5.	Línea directa de asesoramiento: estableceremos una línea directa gratuita para que los consumidores puedan obtener información confiable en relación con la insulina y la diabetes.
+
+6.	Alianza con farmacéuticas para programas de capacitación: proponemos establecer alianzas estratégicas con farmacéuticas para desarrollar y ofrecer programas de capacitación destinados a los profesionales de farmacias. Este esfuerzo conjunto permitirá asegurar que los farmacéuticos reciban formación continua sobre las indicaciones apropiadas del uso de insulina y estén equipados para manejar consultas y situaciones relacionadas con la dispensación de insulina
+
 
 
 ### Conclusión
