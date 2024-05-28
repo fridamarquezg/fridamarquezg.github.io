@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como un TikTok casi me mata. Un análsis de datos
+title: Cómo un TikTok casi me mata. Análsis de datos
 date: 2024-02-20 00:00:00 +0300
 description: Analisis de datos de como una tendencia en tiktok causo un desabasto de insulina. # Add post description (optional)
 img: tt.jpg # Add image post (optional)
