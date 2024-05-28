@@ -13,16 +13,21 @@ Ultimate Tic Tac Toe es una variante avanzada del clásico juego de Tic Tac Toe 
 
 ### Estructura del Juego
 * Tablero Principal: El tablero está compuesto por nueve tableros de Tic Tac Toe más pequeños, formando una cuadrícula de 3x3.
+
 * Sub - Tableros: Cada uno de los nueve tableros pequeños también es un juego de Tic Tac Toe por sí mismo.
 
 ### Reglas Básicas
 * Movimiento Inicial: El primer jugador puede colocar su marca (X o O) en cualquier celda de cualquier tablero pequeño.
+
 * Movimientos Subsiguientes: La ubicación de la marca de un jugador determina en qué tablero pequeño el siguiente jugador debe jugar. Por ejemplo, si el primer jugador coloca su marca en la celda central de un tablero pequeño, el próximo jugador debe jugar en el tablero pequeño central del tablero principal.
+
 * Ganar Sub- Tableros: Los jugadores ganan un tablero pequeño siguiendo las reglas tradicionales de Tic Tac Toe (alineando tres de sus marcas en fila, columna o diagonal).
+
 * Ganar el Juego: El objetivo es ganar tres tableros pequeños en línea en el tablero principal (horizontalmente, verticalmente o diagonalmente).
 
 ### Consideraciones Estratégicas
 * Forzar Jugadas: Un jugador puede forzar al oponente a jugar en un tablero pequeño específico, lo que puede limitar las opciones del oponente y crear oportunidades estratégicas.
+
 * Bloqueo y Control: Controlar los tableros pequeños clave es crucial, especialmente aquellos que podrían influir en múltiples direcciones de victoria en el tablero principal.
 
 Ultimate Tic Tac Toe añade una dimensión estratégica adicional al juego clásico, haciendo que los jugadores deban pensar varios movimientos por adelantado y considerar tanto las jugadas inmediatas como sus impactos futuros.
@@ -35,14 +40,17 @@ En el algoritmo Minimax, una función heurística desempeña un papel crucial cu
 
 Evaluación de Estados Intermedios: 
 * En situaciones complejas, como en juegos con muchos movimientos posibles y profundas ramas de decisiones (como el ajedrez), es impráctico evaluar todas las posibles secuencias hasta los estados finales del juego.
+
 * Una función heurística permite evaluar los estados intermedios del juego cuando el algoritmo debe detenerse antes de alcanzar el final del juego debido a limitaciones de tiempo o recursos computacionales.
 
 Asignación de Valores de Utilidad:
 * La función heurística asigna un valor numérico a un estado del juego, indicando cuán favorable es ese estado para el jugador maximizador.
+
 * Estos valores se utilizan para comparar y decidir entre diferentes movimientos, guiando el algoritmo hacia las jugadas más prometedoras sin necesidad de completar todo el árbol de decisión.
 
 Optimización del Rendimiento:
 * Emplear una función heurística permite al algoritmo Minimax hacer estimaciones razonables sobre el valor de un estado del juego basado en características observables, como la posición de las piezas en un tablero, el control del centro en ajedrez, o la proximidad a la victoria en Tic Tac Toe.
+
 * Esto mejora el rendimiento y la eficiencia del algoritmo, permitiendo tomar decisiones más rápidas y efectivas dentro de las limitaciones computacionales.
 
 Para nuestro proyecto, decidimos crear una función heurística que tiene la siguiente forma:
