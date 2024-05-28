@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algoritmo Agricultor
-date: 2017-09-12 00:00:00 +0300
+date: 2024-04-30 00:00:00 +0300
 description: Segundo proyecto de la matería de Inteligencia Artificial # Add post description (optional)
 img: ae.jpg # Add image post (optional)
 tags: [AI, EvolutionaryAlgorithms, ClimateChange] # add tag
