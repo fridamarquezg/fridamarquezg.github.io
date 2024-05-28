@@ -19,7 +19,7 @@ Esto no es un post de ciencia de datos, son fotos de los mejores conciertos a lo
 ![T1]({{site.baseurl}}/assets/img/am.jpg)
 
 ### The Strokes
-![T1]({{site.baseurl}}/assets/img/ts.jpg)
+![T1]({{site.baseurl}}/assets/img/ts.JPG)
 
 ### Miley Cyrus
 ![T1]({{site.baseurl}}/assets/img/miley.jpg)
