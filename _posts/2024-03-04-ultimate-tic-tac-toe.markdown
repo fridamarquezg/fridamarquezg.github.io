@@ -1,17 +1,57 @@
 ---
 layout: post
 title: Ultimate Tic Tac Toe
-date: 2017-09-12 00:00:00 +0300
+date: 2024-03-04 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: uttt.jpg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+Primer proyecto para la materia de Inteligencia Artificial.
+Lo hice junto con mis amigos: Majo Velázquez (https://github.com/Majo2103) y Gerardo Guerrero (https://github.com/mellamanelpoeta) y Pablo Alazraki (https://github.com/Palazrak)
 
->Tattooed pour-over taiyaki woke, skateboard subway tile PBR&B etsy distillery street art pok pok wolf 8-bit. Vegan bicycle rights schlitz subway tile unicorn taiyaki.
+Ultimate Tic Tac Toe es una variante avanzada del clásico juego de Tic Tac Toe que introduce un nivel adicional de estrategia y complejidad. 
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+### Estructura del Juego
+* Tablero Principal: El tablero está compuesto por nueve tableros de Tic Tac Toe más pequeños, formando una cuadrícula de 3x3.
+* Sub - Tableros: Cada uno de los nueve tableros pequeños también es un juego de Tic Tac Toe por sí mismo.
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven't heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven't heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+### Reglas Básicas
+* Movimiento Inicial: El primer jugador puede colocar su marca (X o O) en cualquier celda de cualquier tablero pequeño.
+* Movimientos Subsiguientes: La ubicación de la marca de un jugador determina en qué tablero pequeño el siguiente jugador debe jugar. Por ejemplo, si el primer jugador coloca su marca en la celda central de un tablero pequeño, el próximo jugador debe jugar en el tablero pequeño central del tablero principal.
+* Ganar Sub- Tableros: Los jugadores ganan un tablero pequeño siguiendo las reglas tradicionales de Tic Tac Toe (alineando tres de sus marcas en fila, columna o diagonal).
+* Ganar el Juego: El objetivo es ganar tres tableros pequeños en línea en el tablero principal (horizontalmente, verticalmente o diagonalmente).
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven't heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90's taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+### Consideraciones Estratégicas
+* Forzar Jugadas: Un jugador puede forzar al oponente a jugar en un tablero pequeño específico, lo que puede limitar las opciones del oponente y crear oportunidades estratégicas.
+* Bloqueo y Control: Controlar los tableros pequeños clave es crucial, especialmente aquellos que podrían influir en múltiples direcciones de victoria en el tablero principal.
+
+Ultimate Tic Tac Toe añade una dimensión estratégica adicional al juego clásico, haciendo que los jugadores deban pensar varios movimientos por adelantado y considerar tanto las jugadas inmediatas como sus impactos futuros.
+
+### Implementación del algoritmo Minimax
+El algoritmo Minimax es una técnica de toma de decisiones utilizada en teoría de juegos e inteligencia artificial, particularmente en juegos de suma cero como el ajedrez y el Tic Tac Toe. Este algoritmo busca minimizar la posible pérdida máxima en una situación adversa. En un juego de dos jugadores, el algoritmo alterna entre simular movimientos del jugador "maximizador" que intenta maximizar su puntuación y movimientos del jugador "minimizador" que intenta minimizar la puntuación del maximizador. Minimax examina todas las posibles jugadas, evalúa los estados resultantes del tablero, y elige la jugada que conduce al mejor resultado posible para el jugador en turno, asumiendo que el oponente también jugará óptimamente. Esta estrategia permite a los jugadores tomar decisiones óptimas basadas en un análisis profundo de las posibles consecuencias de cada jugada.
+
+### Funcion heurística
+En el algoritmo Minimax, una función heurística desempeña un papel crucial cuando se trata de juegos o problemas donde la profundidad completa del árbol de decisión no es practicable debido a la complejidad y la cantidad de posibles movimientos. Aquí te explico su función en detalle:
+
+Evaluación de Estados Intermedios: 
+* En situaciones complejas, como en juegos con muchos movimientos posibles y profundas ramas de decisiones (como el ajedrez), es impráctico evaluar todas las posibles secuencias hasta los estados finales del juego.
+* Una función heurística permite evaluar los estados intermedios del juego cuando el algoritmo debe detenerse antes de alcanzar el final del juego debido a limitaciones de tiempo o recursos computacionales.
+
+Asignación de Valores de Utilidad:
+* La función heurística asigna un valor numérico a un estado del juego, indicando cuán favorable es ese estado para el jugador maximizador.
+* Estos valores se utilizan para comparar y decidir entre diferentes movimientos, guiando el algoritmo hacia las jugadas más prometedoras sin necesidad de completar todo el árbol de decisión.
+
+Optimización del Rendimiento:
+* Emplear una función heurística permite al algoritmo Minimax hacer estimaciones razonables sobre el valor de un estado del juego basado en características observables, como la posición de las piezas en un tablero, el control del centro en ajedrez, o la proximidad a la victoria en Tic Tac Toe.
+* Esto mejora el rendimiento y la eficiencia del algoritmo, permitiendo tomar decisiones más rápidas y efectivas dentro de las limitaciones computacionales.
+
+Para nuestro proyecto, decidimos crear una función heurística que tiene la siguiente forma:
+![T1]({{site.baseurl}}/assets/img/t1.jpg)
+
+### Función 1: Lineas ganadoras en los sub-tableros
+![T2]({{site.baseurl}}/assets/img/t2.jpg)
+### Función 2: Lineas ganadoras en el tablero
+![T3]({{site.baseurl}}/assets/img/t3.jpg)
+### Función 3: Valor de cada posición en el tablero
+![T4]({{site.baseurl}}/assets/img/t4.jpg)
+![T4]({{site.baseurl}}/assets/img/t5.jpg)
